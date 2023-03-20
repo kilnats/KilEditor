@@ -1,6 +1,6 @@
 # KilEditor
 <div style='width: 100%'>
-<img src="C:\Users\79147\Desktop\Картотека Вова\Проекты\KilEditor\banner.png">
+<img src="https://raw.githubusercontent.com/kilnats/KilEditor/main/banner.png" style="display:block;width:100%;">
 </div>
 Простой текстовый редактор для MD-файлов обеспечивающий удобство в реализации тех или иных задач, посредством приятного пользовательского интерфейса, а также понятной среды для создания того или иного контента.
 |Наименование задачи | Статус|
