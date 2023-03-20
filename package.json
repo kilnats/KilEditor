@@ -1,0 +1,12 @@
+{
+  "name": "kileditor",
+  "version": "0.0.1",
+  "description": "Простой текстовый редактор для MD-файлов обеспечивающий удобство в реализации тех или иных задач, посредством приятного пользовательского интерфейса, а также понятной среды для создания контента.",
+  "main": "electron.js",
+  "repository": "git@github.com:kilnats/KilEditor.git",
+  "author": "Kilnats <Kilnats@ya.ru>",
+  "license": "BSD-3 Clause",
+  "devDependencies": {
+    "electron": "^23.1.4"
+  }
+}
